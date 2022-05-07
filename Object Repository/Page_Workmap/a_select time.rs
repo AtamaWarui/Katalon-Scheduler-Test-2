@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_select time</name>
+   <tag></tag>
+   <elementGuidId>d718d20d-1ae9-4308-a760-820e34e471fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-calendar-time-picker-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/div/div[2]/div[2]/div/span/span/div/div/div/div/div/div/div[2]/div[3]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c461cc60-0f1e-4fb0-8845-e415baeed9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-time-picker-btn</value>
+      <webElementGuid>29a48225-6cc3-4650-868c-c6f9a91f6500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a57012c2-b340-478a-84be-6e95f2006a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>select time</value>
+      <webElementGuid>a00916c0-268b-4db1-9147-5b3cd88ae321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app ant-scrolling-effect&quot;]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap entry-modal linked-item-details&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[1]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24 modal-content default-modal&quot;]/div[@id=&quot;content&quot;]/div[@id=&quot;content&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row-flex&quot;]/div[@class=&quot;ant-row ant-form-item schedule_input form-view-property&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control has-success&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;datepicker-input ant-calendar-picker&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ant-calendar-picker-container ignore-inner-clicks ant-calendar-picker-container-placement-topLeft&quot;]/div[@class=&quot;ant-calendar ant-calendar-time&quot;]/div[@class=&quot;ant-calendar-panel&quot;]/div[@class=&quot;ant-calendar-date-panel&quot;]/div[@class=&quot;ant-calendar-footer ant-calendar-footer-show-ok&quot;]/span[@class=&quot;ant-calendar-footer-btn&quot;]/a[@class=&quot;ant-calendar-time-picker-btn&quot;]</value>
+      <webElementGuid>81325ed1-5e07-4acc-bd47-67d2cd50775c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/div/div[2]/div[2]/div/span/span/div/div/div/div/div/div/div[2]/div[3]/span/a</value>
+      <webElementGuid>6ab0c331-efdb-4ee4-9c78-9082aa02d694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'select time')]</value>
+      <webElementGuid>e9f08982-cf63-4b92-be5b-afa518fdd92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::a[1]</value>
+      <webElementGuid>6b540b97-5d2e-46f2-9b2c-dd3b837fad01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::a[1]</value>
+      <webElementGuid>971d5e65-8f30-4742-a06e-8485f05ad2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc798530-dc0b-402a-aa8b-b2a27437a4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='select time']/parent::*</value>
+      <webElementGuid>711e067d-c9b8-4272-8e68-076e28e22def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/a</value>
+      <webElementGuid>4fbdd23a-695f-463e-9f28-4116d36b53a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'select time' or . = 'select time')]</value>
+      <webElementGuid>1a9a5549-9ca1-44ae-a1fe-b8a2c708e30f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

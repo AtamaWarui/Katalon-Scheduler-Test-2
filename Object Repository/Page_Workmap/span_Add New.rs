@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add New</name>
+   <tag></tag>
+   <elementGuidId>c77a66ea-0ebb-4013-87ab-a1e1c5076890</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.add-new-target-board</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/div/div[9]/div[2]/div/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0a66313-c096-498a-b220-d872b9b900c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-new-target-board</value>
+      <webElementGuid>e6eb038e-e6e9-4ac2-b2a6-ea0490bed5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New</value>
+      <webElementGuid>13407a68-84cf-4151-aecc-7c1ce4e51599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row-flex&quot;]/div[@class=&quot;ant-row ant-form-item mapping_input form-view-property&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;ant-tag selected-item ignore-inner-clicks add-new-button-in-modal&quot;]/span[@class=&quot;add-new-target-board&quot;]</value>
+      <webElementGuid>ac46f6b0-3571-4323-8e2f-5cc199dc3c80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/div/div[9]/div[2]/div/span/span/span</value>
+      <webElementGuid>623ca828-001b-4204-82ad-dbe73c0a634a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tests'])[1]/following::span[3]</value>
+      <webElementGuid>ac17d1fa-f99c-4b9a-86f9-a73971493964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule your test'])[1]/following::span[4]</value>
+      <webElementGuid>6c8bb395-c4ae-4284-99ae-411976d0a593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
+      <webElementGuid>fbe72881-490c-4047-82f3-2cf7d00a222c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by WorkMap.ai'])[1]/preceding::span[2]</value>
+      <webElementGuid>21d7f50c-793e-42b7-be70-d38a5a3eb21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add New']/parent::*</value>
+      <webElementGuid>ba6a9cb5-2d20-450a-99b8-3c60d1411295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>62270e80-b264-4add-8a77-b671c6a9a0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add New' or . = 'Add New')]</value>
+      <webElementGuid>55be766a-936f-4842-8374-cf65d3e4b364</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

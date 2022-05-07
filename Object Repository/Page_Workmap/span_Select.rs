@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select</name>
+   <tag></tag>
+   <elementGuidId>d902d222-bf36-4069-a9f1-2351d9940143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/form/div/div[1]/div[2]/div/span/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.placeholder.ant-dropdown-trigger.custom-select-dropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c100ca4-4719-4f6e-9eff-f80778190a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder ant-dropdown-trigger custom-select-dropdown</value>
+      <webElementGuid>73e2741a-9d2e-46e2-bbe1-ced1f59b3320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>7fb06c52-958d-450e-af2e-dc237615d91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row-flex&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-12 ant-col-xl-12 ant-col-xxl-12&quot;]/div[@class=&quot;ant-row ant-form-item single_option_input form-view-property&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/div[@class=&quot;ant-form-input ant-input custom-select-wrapper&quot;]/span[@class=&quot;placeholder ant-dropdown-trigger custom-select-dropdown&quot;]</value>
+      <webElementGuid>60eceb50-66b1-4c1b-9945-48932cf02809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/div/div[5]/div/div[2]/div/span/div/span</value>
+      <webElementGuid>777698ee-8bdd-4fb1-abdd-9ad5d630b67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::span[2]</value>
+      <webElementGuid>c1ea5f8b-73cd-4ec6-87c8-e60a9fd41f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Date'])[1]/following::span[5]</value>
+      <webElementGuid>2d443ec6-0878-46f5-a017-5b18d8a49f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are You Fully Vaccinated?'])[1]/preceding::span[2]</value>
+      <webElementGuid>7c707f57-bf5e-449a-9551-7a362a2d2b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>c9f07f14-e4d8-4d00-9799-192f84398e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select...' or . = 'Select...')]</value>
+      <webElementGuid>30d014e8-681d-4b6c-a01b-f244b21fcec2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
