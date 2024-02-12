@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Workmap/input_Name_ant-inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Workmap/input_Name_ant-input'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Workmap/input_Name_ant-input'), 'mmj761776@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Workmap/input_Name_ant-input'), '')
 
 WebUI.click(findTestObject('Object Repository/Page_Workmap/svg'))
 
